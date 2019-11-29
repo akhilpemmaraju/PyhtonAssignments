@@ -1,0 +1,14 @@
+<employees org='dxc' loc='Banglore'>
+	<employee id='1'>
+		<fname>Sachin</fname>
+		<lname>Tendulkar</lname>
+	</employee>
+	<employee id='2'>
+		<fname>Saurav</fname>
+		<lname>Ganguly</lname>
+	</employee>
+	<employee id='3'>
+		<fname>Rahul</fname>
+		<lname>Dravid</lname>
+	</employee>
+</employees>

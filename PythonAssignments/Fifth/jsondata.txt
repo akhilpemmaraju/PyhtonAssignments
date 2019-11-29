@@ -1,0 +1,14 @@
+[
+	{
+		"fname":"David json" ,
+		"lname":"warner json"
+	},
+	{
+		"fname":"Steve jsno" ,
+		"lname":"smith json"
+	},
+	{
+		"fname":"Aron jsno" ,
+		"lname":"finch json"
+	}
+]
